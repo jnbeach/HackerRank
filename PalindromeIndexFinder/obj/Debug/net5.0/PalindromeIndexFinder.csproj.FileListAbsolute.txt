@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\bin\Debug\net5.0\PalindromeIndexFinder.exe
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\bin\Debug\net5.0\PalindromeIndexFinder.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\bin\Debug\net5.0\PalindromeIndexFinder.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\bin\Debug\net5.0\PalindromeIndexFinder.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\bin\Debug\net5.0\PalindromeIndexFinder.dll
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\bin\Debug\net5.0\ref\PalindromeIndexFinder.dll
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\bin\Debug\net5.0\PalindromeIndexFinder.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\obj\Debug\net5.0\PalindromeIndexFinder.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\obj\Debug\net5.0\PalindromeIndexFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\obj\Debug\net5.0\PalindromeIndexFinder.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\obj\Debug\net5.0\PalindromeIndexFinder.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\obj\Debug\net5.0\PalindromeIndexFinder.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\obj\Debug\net5.0\PalindromeIndexFinder.dll
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\obj\Debug\net5.0\ref\PalindromeIndexFinder.dll
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\obj\Debug\net5.0\PalindromeIndexFinder.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\PalindromeIndexFinder\obj\Debug\net5.0\PalindromeIndexFinder.genruntimeconfig.cache

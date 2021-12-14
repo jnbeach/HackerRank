@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\bin\Debug\net6.0\SuperDigits.exe
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\bin\Debug\net6.0\SuperDigits.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\bin\Debug\net6.0\SuperDigits.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\bin\Debug\net6.0\SuperDigits.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\bin\Debug\net6.0\ref\SuperDigits.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\bin\Debug\net6.0\SuperDigits.pdb
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\obj\Debug\net6.0\SuperDigits.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\obj\Debug\net6.0\SuperDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\obj\Debug\net6.0\SuperDigits.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\obj\Debug\net6.0\SuperDigits.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\obj\Debug\net6.0\SuperDigits.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\obj\Debug\net6.0\SuperDigits.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\obj\Debug\net6.0\ref\SuperDigits.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\obj\Debug\net6.0\SuperDigits.pdb
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\SuperDigits\obj\Debug\net6.0\SuperDigits.genruntimeconfig.cache

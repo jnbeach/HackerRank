@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\bin\Debug\net6.0\GridChallenge.exe
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\bin\Debug\net6.0\GridChallenge.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\bin\Debug\net6.0\GridChallenge.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\bin\Debug\net6.0\GridChallenge.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\bin\Debug\net6.0\ref\GridChallenge.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\bin\Debug\net6.0\GridChallenge.pdb
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\obj\Debug\net6.0\GridChallenge.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\obj\Debug\net6.0\GridChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\obj\Debug\net6.0\GridChallenge.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\obj\Debug\net6.0\GridChallenge.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\obj\Debug\net6.0\GridChallenge.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\obj\Debug\net6.0\GridChallenge.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\obj\Debug\net6.0\ref\GridChallenge.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\obj\Debug\net6.0\GridChallenge.pdb
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\GridChallenge\obj\Debug\net6.0\GridChallenge.genruntimeconfig.cache

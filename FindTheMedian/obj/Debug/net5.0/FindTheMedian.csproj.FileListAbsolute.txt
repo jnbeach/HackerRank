@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\bin\Debug\net5.0\FindTheMedian.exe
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\bin\Debug\net5.0\FindTheMedian.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\bin\Debug\net5.0\FindTheMedian.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\bin\Debug\net5.0\FindTheMedian.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\bin\Debug\net5.0\FindTheMedian.dll
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\bin\Debug\net5.0\ref\FindTheMedian.dll
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\bin\Debug\net5.0\FindTheMedian.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\obj\Debug\net5.0\FindTheMedian.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\obj\Debug\net5.0\FindTheMedian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\obj\Debug\net5.0\FindTheMedian.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\obj\Debug\net5.0\FindTheMedian.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\obj\Debug\net5.0\FindTheMedian.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\obj\Debug\net5.0\FindTheMedian.dll
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\obj\Debug\net5.0\ref\FindTheMedian.dll
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\obj\Debug\net5.0\FindTheMedian.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CSharp\FindTheMedian\obj\Debug\net5.0\FindTheMedian.genruntimeconfig.cache

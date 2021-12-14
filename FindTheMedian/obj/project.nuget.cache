@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3V+cTvt5rhsev1NXtApgx6Zg4SXEoS2/PBqgywUeMdJq2GuB0syloWb9075C7T75qmtjI2ChnegxdMDKySLALw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\straw\\OneDrive\\Documents\\Coding\\CSharp\\FindTheMedian\\FindTheMedian.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\straw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
