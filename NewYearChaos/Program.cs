@@ -1,55 +1,57 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace NewYearChaos
 {
     class Program
     {
+        //It is New Year's Day and people are in line for the Wonderland rollercoaster ride. Each person wears a sticker indicating their initial position in the queue from 1 to n. Any person can bribe the person directly in front of them to swap positions, but they still wear their original sticker. One person can bribe at most two others.
+
+        // Determine the minimum number of bribes that took place to get to a given queue order.Print the number of bribes, or, if anyone has bribed more than two people, print Too chaotic.
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("New Year Chaos");
+            List<int> queueTest = new List<int>(){
+                2, 1, 5, 3, 4
+            };
+            minimumBribes(queueTest);
         }
         public static void minimumBribes(List<int> q)
         {
             int bribes = 0;
             bool isTooChaotic = false;
-            //Set up the initial state of the Queue
-            List<int> initialQueue = new List<int>();
-            for (int i = 1; i <= q.Count; i++) initialQueue.Add(i);
-            //Set up a dummyQueue to alter.
-            List<int> dummyQueue = new List<int>(initialQueue.ToArray());
+            int personId;
+            int expectedPersonId;
+            int queueDiff = 0;
+            //Changed to a list with only the next 3 elements to keep track of expected positions.
+            //In previous iterations, I used an array the size of the queue, but this was unneccessary and bogged down the processing for larger queues.
+            List<int> next3Expected = new List<int>(){
+                1, 2, 3
+            };
 
-            int initialIndex;
-            int currentIndex;
-            int indexDiff;
-
-            for (int personId = q.Count; personId >= 1; personId--)
+            for (int index = 0; index < q.Count; index++)
             {
-                initialIndex = initialQueue.IndexOf(personId);
-                currentIndex = q.IndexOf(personId);
-                indexDiff = initialIndex - currentIndex;
-                if (indexDiff > 2)
+                expectedPersonId = next3Expected[0];
+                personId = q[index];
+                if (next3Expected.Contains(personId))
+                {
+                    queueDiff = next3Expected.IndexOf(personId);
+                    if (queueDiff >= 0)
+                    {
+                        next3Expected.Add(next3Expected[2] + 1);
+                        next3Expected.Remove(personId);
+                        bribes += queueDiff;
+                    }
+                }
+                else
                 {
                     isTooChaotic = true;
                     break;
                 }
-                else if (indexDiff <= 2 && indexDiff > 0)
-                {
-                    for (int i = 1; i <= indexDiff; i++)
-                    {
-                        conductBribe(ref dummyQueue, personId);
-                        bribes++;
-                    }
-                }
             }
             if (isTooChaotic) Console.WriteLine("Too chaotic");
             else Console.WriteLine($"{bribes}");
-
-        }
-        public static void conductBribe(ref List<int> queue, int briber)
-        {
-            int briberIndex = queue.IndexOf(briber);
-            queue.Remove(briber);
-            queue.Insert(briberIndex - 1, briber);
         }
     }
 }

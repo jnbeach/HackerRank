@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\bin\Debug\net5.0\NewYearChaos.exe
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\bin\Debug\net5.0\NewYearChaos.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\bin\Debug\net5.0\NewYearChaos.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\bin\Debug\net5.0\NewYearChaos.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\bin\Debug\net5.0\NewYearChaos.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\bin\Debug\net5.0\ref\NewYearChaos.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\bin\Debug\net5.0\NewYearChaos.pdb
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\obj\Debug\net5.0\NewYearChaos.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\obj\Debug\net5.0\NewYearChaos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\obj\Debug\net5.0\NewYearChaos.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\obj\Debug\net5.0\NewYearChaos.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\obj\Debug\net5.0\NewYearChaos.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\obj\Debug\net5.0\NewYearChaos.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\obj\Debug\net5.0\ref\NewYearChaos.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\obj\Debug\net5.0\NewYearChaos.pdb
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\NewYearChaos\obj\Debug\net5.0\NewYearChaos.genruntimeconfig.cache

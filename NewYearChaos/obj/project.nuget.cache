@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AFUS0lvCKuJEARe2v8WoyplwGPK627sEikMbNXfs+JVMWaafLsH7hGzbGRQx3rqvlREVQ5Ov6VLa93QZFXDOkg==",
+  "dgSpecHash": "9x4+59/tUrhY/hcCjRMkmHWL1jk0FR76/j8xUXIyLyQteYh2mT4i8sYKz1MZJtH7zde7uukAY/4C5kjAIOf+rw==",
   "success": true,
   "projectFilePath": "C:\\Users\\straw\\OneDrive\\Documents\\Coding\\HackerRank\\NewYearChaos\\NewYearChaos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\straw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
