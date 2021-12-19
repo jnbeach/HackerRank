@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EN01uGH7lWzkV4zcsfG6Aopo7nv5HFUzUidkDdsSZo0Ie2rKee5Wey8JvJ5ZsSjOrv8oTwl3T0ycUm7Co3bjhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\straw\\OneDrive\\Documents\\Coding\\HackerRank\\TruckTour\\TruckTour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\straw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
