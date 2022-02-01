@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hLSoktSTfzJ4sYH8wOhdUNdEs3UkBUbuZdHqZXH48UUMlQHZu5kGNTVOBXSA4bWUMI6k1L3tAOju0JVLeK1C8g==",
+  "dgSpecHash": "0CVZLcwLp8KJFnixYAOeMsQqhU3Nh9WIWRG5eQIeOWeLByTvX7lLEbuxinXeevPkygNQ2HNJRgEJInQB/yyedw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\straw\\OneDrive\\Documents\\Coding\\CSharp\\MaximizeQuadrant\\MaximizeQuadrant.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\straw\\OneDrive\\Documents\\Coding\\HackerRank\\MaximizeQuadrant\\MaximizeQuadrant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\straw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
