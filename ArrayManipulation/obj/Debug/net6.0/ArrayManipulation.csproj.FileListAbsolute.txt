@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\bin\Debug\net6.0\ArrayManipulation.exe
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\bin\Debug\net6.0\ArrayManipulation.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\bin\Debug\net6.0\ArrayManipulation.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\bin\Debug\net6.0\ArrayManipulation.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\bin\Debug\net6.0\ref\ArrayManipulation.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\bin\Debug\net6.0\ArrayManipulation.pdb
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\obj\Debug\net6.0\ArrayManipulation.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\obj\Debug\net6.0\ArrayManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\obj\Debug\net6.0\ArrayManipulation.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\obj\Debug\net6.0\ArrayManipulation.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\obj\Debug\net6.0\ArrayManipulation.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\obj\Debug\net6.0\ArrayManipulation.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\obj\Debug\net6.0\ref\ArrayManipulation.dll
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\obj\Debug\net6.0\ArrayManipulation.pdb
+C:\Users\straw\OneDrive\Documents\Coding\HackerRank\ArrayManipulation\obj\Debug\net6.0\ArrayManipulation.genruntimeconfig.cache
